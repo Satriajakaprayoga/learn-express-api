@@ -1,0 +1,7 @@
+# see https://git-scm.com/docs/gitignore
+
+# depedencies
+/node_modules
+
+# misc
+/.env
